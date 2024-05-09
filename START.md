@@ -149,7 +149,7 @@ class="**text-sm/[17px]**"						                        sm-dan sonraki 17px **li
 
 
 # Reusing styles with @apply
-If you want to reuse some boiling (cox setrli ve tez tez istifade edeceyin) code you can write it in @layer component in **index.css** file same as **MIXIN** in SASS
+If you want to reuse some boiling (cox setrli ve tez-tez istifade edeceyin) code you can write it in @layer component in **index.css** file same as **MIXIN** in SASS
 ve hemin class ya da Id-ni istediyin elementlerde istifade ede bilersen hec bir import olunmadan. ```Bu methoddan cox istifade etme. Cunki CSS yazmis sayilirsan```
 Elave olaraq ustunlutu odurki elementde hemin classi cagirdiqdan sonra istediyin qeder yeniden Tailwind classlari yaza bilirsen hemin elementin yanina
 ```bash
