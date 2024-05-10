@@ -91,7 +91,7 @@ module.exports = {
 
 > [!CAUTION]
 > Don’t use sm: to target mobile devices
-class="**sm:text-center**" 		                                this will only center text **on screens 640px and wider**, not on **small screens**(mobile) 
+class="**sm:text-center**" 		                                this will only center text **on screens 640px and wider**, not on **small screens**(mobile)  
 class="**text-center sm:text-left**"	                        this will center text **on mobile**, and left align it **on screens 640px and wider** 
 class="**max-w-[200px]**"  		                                max-width:200px 	**in all breakpoints** (screens)
 class="**md:max-w-[200px]**"     		                          max-width:200px 	**on screens 768px and wider**, not on small screens
